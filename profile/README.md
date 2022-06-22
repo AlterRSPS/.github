@@ -7,13 +7,13 @@
 
 -----
 <b>Big thanks to:</b>
-Tomm, Kris, Polar, Bmyte, Khaled431, Corey, Graham Edgecombe, Major, Sini, Bart, Scu11, Bart (from original OSS team), Rune-Status
+Tomm, Kris, Polar, Bmyte, BarRescue, Khaled431, Corey, Graham Edgecombe, Major, Sini, Bart, Scu11, Bart (from original OSS team), Rune-Status
 
 
-[![license][license-badge]][isc] [![revision: 201][rev-badge]][patch] [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/QTpECWN6)
+[![license][license-badge]][isc] [![revision: 205][rev-badge]][patch] [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/sAzCuuwkpN)
 
-[patch]: https://secure.runescape.com/m=news/tombs-of-amascut-rewards-beta?oldschool=1
-[rev-badge]: https://img.shields.io/badge/Revision-201-blueviolet
+[patch]: https://oldschool.runescape.wiki/w/Update:Revenant_Caves_%26_Deadman_Changes
+[rev-badge]: https://img.shields.io/badge/Revision-205-blueviolet
 
 [license-badge]: https://img.shields.io/badge/license-Apache-informational
 [isc]: https://opensource.org/licenses/ISC
