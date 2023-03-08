@@ -7,13 +7,13 @@
 
 -----
 <b>Big thanks to:</b>
-Tomm, Kris, Polar, Bmyte, BarRescue, Khaled431, Corey, Graham Edgecombe, Major, Sini, Bart, Scu11, Bart (from original OSS team), Rune-Status
+<a href="https://github.com/Tomm0017">Tomm0017</a>, <a href="https://github.com/Z-kris">Kris</a>, <a href="https://www.rune-server.ee/members/300582-polar/">Polar</a>, <a href="https://github.com/bmyte/">Bmyte</a>, <a href="https://github.com/BarRescue/">BarRescue</a>, <a href="https://www.rune-server.ee/members/114158-cjay0091/index18.html">Khaled431 (Cjay)</a>, <a href="https://www.rune-server.ee/members/189177-corey/">Corey</a>, <a href="https://github.com/ushort">Chris</b>, <a href="https://github.com/Sages0ft">Sage</a>, <a href="https://github.com/grahamedgecombe">Graham Edgecombe</a>, Major, Sini, <a href="https://github.com/BartvHelvert">Bart</a>, <a href="https://www.rune-server.ee/members/41140-scu11/">Scu11</a>, Bart (from original OSS team), Rune-Status
+<br><b>Sorry if i forgot to mention someone and whos Github / R-S i did not add.</b>
 
+[![license][license-badge]][isc] [![revision: 211][rev-badge]][patch] [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/sAzCuuwkpN)
 
-[![license][license-badge]][isc] [![revision: 205][rev-badge]][patch] [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/sAzCuuwkpN)
-
-[patch]: https://oldschool.runescape.wiki/w/Update:Revenant_Caves_%26_Deadman_Changes
-[rev-badge]: https://img.shields.io/badge/Revision-205-blueviolet
+[patch]: https://oldschool.runescape.wiki/w/Update:The_Ruinous_Powers_-_Updated_Greenlight_Poll_Blog
+[rev-badge]: https://img.shields.io/badge/Revision-211-blueviolet
 
 [license-badge]: https://img.shields.io/badge/license-Apache-informational
 [isc]: https://opensource.org/licenses/ISC
