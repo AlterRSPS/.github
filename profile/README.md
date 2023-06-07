@@ -7,14 +7,14 @@
 
 -----
 <b>Big thanks to:</b>
-<a href="https://github.com/Tomm0017">Tomm0017</a>, <a href="https://github.com/Z-kris">Kris</a>, <a href="https://www.rune-server.ee/members/300582-polar/">Polar</a>, <a href="https://github.com/zeruth">Zeruth (Null)</a>, <a href="https://github.com/bmyte/">Bmyte</a>, <a href="https://github.com/BarRescue/">BarRescue</a>, <a href="https://www.rune-server.ee/members/114158-cjay0091/index18.html">Khaled431 (Cjay)</a>, <a href="https://www.rune-server.ee/members/189177-corey/">Corey</a>, <a href="https://github.com/ushort">Chris</b>, <a href="https://github.com/Sages0ft">Sage</a>, <a href="https://github.com/grahamedgecombe">Graham Edgecombe</a>, Major, Sini, <a href="https://github.com/BartvHelvert">Bart</a>, <a href="https://www.rune-server.ee/members/41140-scu11/">Scu11</a>, Bart (from original OSS team), Rune-Status
-<br><b>Sorry if i forgot to mention someone and whos Github / R-S i did not add.</b>
+<a href="https://github.com/Tomm0017">Tomm0017</a>, <a href="https://github.com/Z-kris">Kris</a>, <a href="https://www.rune-server.ee/members/300582-polar/">Polar</a>, <a href="https://github.com/zeruth">Zeruth (Null)</a>, <a href="https://github.com/bmyte/">Bmyte</a>, <a href="https://github.com/BarRescue/">BarRescue</a>, <a href="https://www.rune-server.ee/members/114158-cjay0091/index18.html">Khaled431 (Cjay)</a>, <a href="https://www.rune-server.ee/members/189177-corey/">Corey</a>, <a href="https://github.com/ushort">Chris</b>, <a href="https://github.com/Sages0ft">Sage</a>, <a href="https://github.com/grahamedgecombe">Graham Edgecombe</a>, Major, Sini, <a href="https://github.com/BartvHelvert">Bart</a>, <a href="https://www.rune-server.ee/members/41140-scu11/">Scu11</a>, Bart (from original OSS team), Rune-Status, <a href="https://github.com/MeteorLite">MeteorLite Team</a>, And sir baget <span style="color:orange;">Darwin</span>.
+<br><b>Sorry if i forgot to mention someone and who's Github / R-S i did not add.</b>
 
-[![license][license-badge]][isc] [![revision: 212][rev-badge]][patch] [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/sAzCuuwkpN)
+[![license][license-badge]][isc] [![revision: 213][rev-badge]][patch] [![Discord](https://badgen.net/badge/icon/Discord?icon=discord&label)](https://discord.com/invite/sAzCuuwkpN)
 
-[patch]: https://oldschool.runescape.wiki/w/Update:The_Last_of_Poll_78
-[rev-badge]: https://img.shields.io/badge/Revision-212-blueviolet
+[patch]: https://oldschool.runescape.wiki/w/Update:Points-Based_Combat_Achievements
+[rev-badge]: https://img.shields.io/badge/Revision-213-blueviolet
 
-[license-badge]: https://img.shields.io/badge/license-Apache-informational
+[license-badge]: https://img.shields.io/badge/License-Apache-informational
 [isc]: https://opensource.org/licenses/ISC
 [license]: https://github.com/rsmod/rsmod/blob/master/LICENSE.md
