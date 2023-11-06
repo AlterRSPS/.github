@@ -12,8 +12,8 @@
 
 [![license][license-badge]][isc] [![revision: 213][rev-badge]][patch] [![Discord](https://badgen.net/badge/icon/Discord?icon=discord&label)](https://discord.com/invite/sAzCuuwkpN)
 
-[patch]: https://oldschool.runescape.wiki/w/Update:Points-Based_Combat_Achievements
-[rev-badge]: https://img.shields.io/badge/Revision-213-blueviolet
+[patch]: https://oldschool.runescape.wiki/w/Update:Forestry:_Part_One_-_Feedback_Changes
+[rev-badge]: https://img.shields.io/badge/Revision-215-blueviolet
 
 [license-badge]: https://img.shields.io/badge/License-Apache-informational
 [isc]: https://opensource.org/licenses/ISC
